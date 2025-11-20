@@ -65,6 +65,21 @@
 
 <img width="1013" height="590" alt="image" src="https://github.com/user-attachments/assets/34fd4b0a-b289-49e2-8cc4-8720ff107ce7" />
 
+# List the orders where a customer placed more than 3 orders
+<img width="1004" height="590" alt="image" src="https://github.com/user-attachments/assets/3f00edbc-27ec-49b3-8fa5-6e0012e94ea9" />
+
+# Using Window Function (DENSE_RANK) to find 2nd Highest Salary
+<img width="1013" height="576" alt="image" src="https://github.com/user-attachments/assets/ace75ee0-397e-4c63-a254-d6854006bc7d" />
+
+
+# Get the employee that starts with a and the price is more than 3000.
+<img width="1015" height="590" alt="image" src="https://github.com/user-attachments/assets/188a9236-b68d-44fd-bf13-a835ca5f80f6" />
+
+
+
+
+
+
 
 
 
