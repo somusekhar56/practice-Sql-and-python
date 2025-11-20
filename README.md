@@ -34,6 +34,51 @@
 # Retrieve top 5 highest salaries.
 <img width="1010" height="591" alt="image" src="https://github.com/user-attachments/assets/ebd867d5-6aef-448e-a25e-01e060badb9d" />
 
+# Update salary of employees in HR department by 10%.
+<img width="1004" height="584" alt="image" src="https://github.com/user-attachments/assets/9fb1acb9-f4a5-46f6-92e7-09733dcbff7b" />
+
+# Delete employees who have no assigned department.
+<img width="1000" height="613" alt="image" src="https://github.com/user-attachments/assets/fa33680c-53fc-456f-b4e2-57b109b05da3" />
+
+# Display employees whose name starts with 'A'.
+<img width="1013" height="578" alt="image" src="https://github.com/user-attachments/assets/2be946a3-dd51-4685-8e40-97716d7376ca" />
+
+# Find the average salary of each department.
+<img width="998" height="564" alt="image" src="https://github.com/user-attachments/assets/b6c6c86b-0619-46b3-ac88-398b50cfdd02" />
+
+# Write a query to get all orders placed between two dates.
+<img width="998" height="489" alt="image" src="https://github.com/user-attachments/assets/2be0b657-bc5f-43b7-9e35-a27cab76abfa" />
+
+# Retrieve employee names who earn the maximum salary.
+<img width="1006" height="613" alt="image" src="https://github.com/user-attachments/assets/a38ef5db-ac23-48b3-a269-4ffe394a2a12" />
+
+# Find employees with salary between 30k and 60k.
+<img width="1009" height="584" alt="image" src="https://github.com/user-attachments/assets/57e1a90e-f726-46b8-9a88-655ed54d6cd1" />
+
+# Count how many employees joined in year 2023.
+<img width="1011" height="573" alt="image" src="https://github.com/user-attachments/assets/e9f69f4f-5d7c-479d-83bc-8ec8620cfbd8" />
+
+# Retrieve all employees along with their manager names (self-join).
+<img width="951" height="567" alt="image" src="https://github.com/user-attachments/assets/b5ffd587-e757-427f-b483-d70a7e53807e" />
+
+# Write a query to show department-wise total employees and average salary.
+
+<img width="1013" height="590" alt="image" src="https://github.com/user-attachments/assets/34fd4b0a-b289-49e2-8cc4-8720ff107ce7" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
