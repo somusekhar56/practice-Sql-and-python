@@ -31,6 +31,10 @@
 # Retrieve duplicate records from a table.
 <img width="1007" height="575" alt="image" src="https://github.com/user-attachments/assets/57b43144-1a5a-4969-8760-e6542f552850" />
 
+# Find Duplicate Salaries
+<img width="1015" height="613" alt="image" src="https://github.com/user-attachments/assets/588a1b71-2aba-4201-8639-469795c68ec7" />
+
+
 # Retrieve top 5 highest salaries.
 <img width="1010" height="591" alt="image" src="https://github.com/user-attachments/assets/ebd867d5-6aef-448e-a25e-01e060badb9d" />
 
