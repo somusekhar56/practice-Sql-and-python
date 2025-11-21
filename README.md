@@ -79,6 +79,11 @@
 # Get the employee that starts with a and the price is more than 3000.
 <img width="1015" height="590" alt="image" src="https://github.com/user-attachments/assets/188a9236-b68d-44fd-bf13-a835ca5f80f6" />
 
+# Rank employees within each department by salary, and show those above department average.
+
+<img width="1008" height="499" alt="image" src="https://github.com/user-attachments/assets/a4f05e90-df30-4318-b77f-abdcd71114d3" />
+
+
 
 
 
