@@ -83,6 +83,35 @@
 
 <img width="1008" height="499" alt="image" src="https://github.com/user-attachments/assets/a4f05e90-df30-4318-b77f-abdcd71114d3" />
 
+# Find the second highest salary (using window function)
+<img width="1011" height="561" alt="image" src="https://github.com/user-attachments/assets/76f45499-9ee7-4428-9a4e-f7021f0a66b1" />
+
+# Rank employees within each department by salary
+<img width="1010" height="593" alt="image" src="https://github.com/user-attachments/assets/e0cd6503-691e-46c2-a56e-4df49a0302f0" />
+
+# Show top 3 salaries in each department(windows function)
+<img width="837" height="566" alt="image" src="https://github.com/user-attachments/assets/324449b3-15a0-4570-a8cd-ed639ffad2bb" />
+
+# Display cumulative salary of employees ordered by joining date
+<img width="1013" height="601" alt="image" src="https://github.com/user-attachments/assets/2de1b7b8-be39-42e1-a195-5f842ad2c024" />
+
+# Show previous employee salary (LAG)
+<img width="912" height="568" alt="image" src="https://github.com/user-attachments/assets/06983487-6124-4ef3-8592-274821e0e06a" />
+
+# Show next employee salary (LEAD)
+<img width="1010" height="610" alt="image" src="https://github.com/user-attachments/assets/b6de1132-e79c-4726-8f59-8e5f115e79d5" />
+
+# Find percent ranking of each employee based on salary
+<img width="1008" height="608" alt="image" src="https://github.com/user-attachments/assets/803218ac-b692-4b36-93f9-9ce2285edb03" />
+
+
+
+
+
+
+
+
+
 
 
 
