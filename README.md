@@ -106,6 +106,31 @@
 
 
 
+# PRACTICAL  PYTHON questions
+# Write a program to swap two numbers
+<img width="1291" height="301" alt="image" src="https://github.com/user-attachments/assets/c32a87c5-6ee0-4b3d-8d33-2cde0c96dca1" />
+
+# Check whether a number is even or odd.
+<img width="1173" height="241" alt="image" src="https://github.com/user-attachments/assets/d7581305-fe75-4d57-9c5c-fb3c16fb159e" />
+
+# Print even numbers from list
+<img width="1273" height="309" alt="image" src="https://github.com/user-attachments/assets/64a0a54f-c499-462c-b392-b1f0312f8c75" />
+
+# 4 Find the largest of three numbers.
+<img width="1296" height="414" alt="image" src="https://github.com/user-attachments/assets/cee74b74-a404-45ec-b2bd-5baa79fb19de" />
+
+# 5 Convert Celsius to Fahrenheit.
+<img width="1164" height="350" alt="image" src="https://github.com/user-attachments/assets/59c16e3e-c4b9-45c4-9f75-856e4ec96260" />
+
+
+
+
+
+
+
+
+
+
 
 
 
