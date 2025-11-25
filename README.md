@@ -122,6 +122,33 @@
 # 5 Convert Celsius to Fahrenheit.
 <img width="1164" height="350" alt="image" src="https://github.com/user-attachments/assets/59c16e3e-c4b9-45c4-9f75-856e4ec96260" />
 
+# 6 Convert a string to uppercase/lowercase.
+<img width="1090" height="214" alt="image" src="https://github.com/user-attachments/assets/522270f2-4e27-4a73-8af8-a89f65562d78" />
+
+ # 7 Count the number of vowels in a string.
+<img width="1183" height="410" alt="image" src="https://github.com/user-attachments/assets/3bdeaa98-1c97-4020-9a0a-c7ca602e9f68" />
+
+# 8 Reverse a string without using slicing.
+<img width="1212" height="316" alt="image" src="https://github.com/user-attachments/assets/62626743-3f51-42ad-93a7-381c44c5b3cb" />
+
+# 9 Check if a string is a palindrome.
+<img width="889" height="420" alt="image" src="https://github.com/user-attachments/assets/3072ff68-3c10-44b4-b54a-bf2a440ada2b" />
+
+# 10 Count occurrences of each word in a sentence.
+
+<img width="1216" height="398" alt="image" src="https://github.com/user-attachments/assets/dfc34b18-f743-4250-8543-71be8fce3e13" />
+
+# Remove duplicates from a string.
+<img width="1283" height="373" alt="image" src="https://github.com/user-attachments/assets/caee0a78-a1ec-41ed-b8c3-da36102d686f" />
+
+
+
+
+
+
+
+
+
 
 
 
